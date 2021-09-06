@@ -1,0 +1,18 @@
+html, body, div, span, iframe, h1, h2, h3,h4,
+h5, h6, p, blokquote, pre, code, a,abbr, img,
+acronym, address, cite, strong, sub, sup, b, 
+center, dl, dt, dd, ol, ul, li, form ,fieldset, 
+label, table, caption, article, aside, canvas, 
+embed, figure, figcaption section, audio, video,
+nav, menu, footer, header, img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+}
+
+ol, ul {
+	list-style: none;
+}
+
